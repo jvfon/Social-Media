@@ -3,7 +3,7 @@ h1 {
     font-size: 2.5em;
     text-transform: capitalize;
 }
-h4 {
+h3 {
     text-align: center;
     text-transform: capitalize;
 }
@@ -12,4 +12,5 @@ p {
     width: 500px;
     text-align: justify;
     line-height: 1.5; /* 1.5 times height of the font */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
