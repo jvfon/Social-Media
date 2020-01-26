@@ -6,8 +6,12 @@ h1 {
     text-transform: capitalize;
 }
 h3 {
+    font-family: 'Merriweather', serif;
     text-align: center;
     text-transform: capitalize;
+}
+#first {
+   display: inline-block; /* children will appear horizontally next to each other */
 }
 p {
     margin: 0 auto; /* centers text */
@@ -15,4 +19,6 @@ p {
     text-align: justify;
     line-height: 1.5; /* 1.5 times height of the font */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 5px;
+    padding:10px;
 }
