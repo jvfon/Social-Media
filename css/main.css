@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box; 
+    box-sizing: border-box;    /* shows the true size of divs */
 }
 h1 {
     font-family: 'Merriweather', serif;
