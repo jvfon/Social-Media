@@ -54,7 +54,12 @@ header {
 .icon-links ul li{
     display: inline-block;
 }
-
+.search-area {
+    display: inline-block;
+}
+.search-area ul li {
+    display: inline-block;
+}
 
 
 
