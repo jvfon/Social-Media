@@ -42,3 +42,57 @@ header {
     text-decoration: none;
     font-size: 20px;
 }
+.menu{
+    display: inline-block;
+}
+.menu ul li{
+    display: inline-block;
+}
+.icon-links{
+    display: inline-block;
+}
+.icon-links ul li{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
