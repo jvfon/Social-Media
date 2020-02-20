@@ -37,7 +37,6 @@ header {
 header .logo-area{
     color: white;
     display: inline-block;
-    background: white;
     margin-left: -4px;
     width: 20%;
 }
@@ -49,7 +48,6 @@ header .logo-area a{
 header .menu{
     display: inline-block;
     width: 20%;
-    background: white;
     margin-left: -4px;
 }
 header .menu ul li{
@@ -57,7 +55,6 @@ header .menu ul li{
 }
 header .icon-links{
     display: inline-block;
-    background: white;
     width: 20%;
     margin-left: -4px;
 }
@@ -72,7 +69,6 @@ header .icon-links .privacy {
 }
 header .search-area {
     display: inline-block;
-    background: white;
     width: 20%;
     margin-left: -4px;
 }
