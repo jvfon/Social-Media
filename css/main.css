@@ -32,6 +32,7 @@ html{
 }
 header {
     background: #3B5998;
+    padding: 15px;
 }
 header .logo-area{
     color: white;
