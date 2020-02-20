@@ -37,23 +37,29 @@ header {
 header .logo-area{
     color: white;
     display: inline-block;
+    background: white;
+    margin-left: -4px;
+    width: 20%;
 }
 header .logo-area a{
     color: white;
     text-decoration: none;
     font-size: 20px;
-    width: 20%;
 }
 header .menu{
     display: inline-block;
     width: 20%;
+    background: white;
+    margin-left: -4px;
 }
 header .menu ul li{
     display: inline-block;
 }
 header .icon-links{
     display: inline-block;
+    background: white;
     width: 20%;
+    margin-left: -4px;
 }
 header .icon-links ul li{
     display: inline-block;
@@ -66,7 +72,9 @@ header .icon-links .privacy {
 }
 header .search-area {
     display: inline-block;
+    background: white;
     width: 20%;
+    margin-left: -4px;
 }
 header .search-area ul li {
     display: inline-block;
