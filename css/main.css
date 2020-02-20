@@ -33,37 +33,37 @@ html{
 header {
     background: #3B5998;
 }
-.logo-area{
+header .logo-area{
     color: white;
     display: inline-block;
 }
-.logo-area a{
+header .logo-area a{
     color: white;
     text-decoration: none;
     font-size: 20px;
 }
-.menu{
+header .menu{
     display: inline-block;
 }
-.menu ul li{
+header .menu ul li{
     display: inline-block;
 }
-.icon-links{
+header .icon-links{
     display: inline-block;
 }
-.icon-links ul li{
+header .icon-links ul li{
     display: inline-block;
 }
-.quick-options {
+header .icon-links .quick-options {
     display: inline-block;
 }
-.icon-links .privacy {
+header .icon-links .privacy {
     display: inline-block;
 }
-.search-area {
+header .search-area {
     display: inline-block;
 }
-.search-area ul li {
+header .search-area ul li {
     display: inline-block;
 }
 
