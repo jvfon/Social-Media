@@ -54,6 +54,12 @@ header {
 .icon-links ul li{
     display: inline-block;
 }
+.quick-options {
+    display: inline-block;
+}
+.icon-links .privacy {
+    display: inline-block;
+}
 .search-area {
     display: inline-block;
 }
