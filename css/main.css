@@ -34,6 +34,9 @@ header {
     background: #3B5998;
     padding: 15px;
 }
+header a{
+    color: white;
+}
 header .logo-area{
     color: white;
     display: inline-block;
@@ -71,6 +74,7 @@ header .search-area {
     display: inline-block;
     width: 20%;
     margin-left: -4px;
+    text-align: right;
 }
 header .search-area ul li {
     display: inline-block;
