@@ -42,15 +42,18 @@ header .logo-area a{
     color: white;
     text-decoration: none;
     font-size: 20px;
+    width: 20%;
 }
 header .menu{
     display: inline-block;
+    width: 20%;
 }
 header .menu ul li{
     display: inline-block;
 }
 header .icon-links{
     display: inline-block;
+    width: 20%;
 }
 header .icon-links ul li{
     display: inline-block;
@@ -63,6 +66,7 @@ header .icon-links .privacy {
 }
 header .search-area {
     display: inline-block;
+    width: 40%;
 }
 header .search-area ul li {
     display: inline-block;
