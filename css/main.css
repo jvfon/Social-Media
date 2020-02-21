@@ -64,8 +64,7 @@ header .icon-links{
     display: inline-block;
     width: 20%;
     margin-left: -4px;
-    padding-left: 20px;
-    border-right: 1px solid rgba(255, 255, 255, .3);
+
 }
 header .icon-links ul li{
     display: inline-block;
@@ -73,9 +72,13 @@ header .icon-links ul li{
 }
 header .icon-links .quick-options {
     display: inline-block;
+    border-right: 1px solid rgba(255, 255, 255, .3);
+    padding-left: 20px;
+    padding-right: 20px;
 }
 header .icon-links .privacy {
     display: inline-block;
+    padding-left: 20px;
 }
 header .search-area {
     display: inline-block;
