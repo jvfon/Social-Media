@@ -54,6 +54,8 @@ header .menu{
     width: 20%;
     margin-left: -4px;
     border-right: 1px solid rgba(255, 255, 255, .3);
+    text-align: right;
+    padding-right: 20px;
 }
 header .menu ul li{
     display: inline-block;
