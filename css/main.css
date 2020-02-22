@@ -111,6 +111,11 @@ header .search-area ul li {
 
 #top-area {
     padding: 200px 15px 90px 15px;
+    background: url(http://getwallpapers.com/wallpaper/full/a/e/4/368387.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #top-area .profile-info .user-img {
     padding: 10px;
@@ -118,6 +123,19 @@ header .search-area ul li {
 }
 #top-area .profile-info .user-img img {
     border-radius: 50%;
+}
+#top-area .profile-info .user-details {
+    display: inline-block;
+    vertical-align: top;
+}
+#top-area .profile-info .user-details h3 {
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    margin-top: 40px;
+}
+#top-area .profile-info .user-details a {
+    
 }
 
 
