@@ -130,6 +130,7 @@ header .search-area ul li {
 #top-area .profile-info .user-details {
     display: inline-block;
     vertical-align: top;
+    padding-left: 20px;
 }
 #top-area .profile-info .user-details h3 {
     color: white;
