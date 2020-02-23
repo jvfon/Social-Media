@@ -153,6 +153,10 @@ header .search-area ul li {
     -moz-border-radius: 3px;
     border-radius: 3px;
     background: rgba(255, 255, 255, .3);
+    transition: background .4s ease-in-out; /* color stays for .4 seconds before changes are applied from a:hover */
+}
+#top-area .profile-info .user-details a:hover {
+    background: #2060E8 ; /* hover pointer over and color changes */
 }
 
 
