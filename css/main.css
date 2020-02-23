@@ -141,7 +141,8 @@ header .search-area ul li {
 #top-area .profile-info .user-details a {
     display: inline-block;
     margin-left: -4px;
-    width: 50%;
+    margin-right: 5%;
+    width: 45%;
     text-align: center;
     text-transform: uppercase;
     color: white;
