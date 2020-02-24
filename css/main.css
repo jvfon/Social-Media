@@ -170,16 +170,12 @@ header .search-area ul li {
     float:left;
     width: 35%;
     margin: 0 2.5%;
-    background: lightsalmon;
-    height: 600px;
 }
 
 #content-area .main-area {
     float: left;
     width: 55%;
     padding: 0 2.5%;
-    background: rgb(162, 122, 255);
-    height: 600px;
 }
 
 
