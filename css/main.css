@@ -164,8 +164,16 @@ header .search-area ul li {
 */
 
 #content-area {
-
+    background: #fafafa;
+    overflow: auto;
+    padding: 50px 0;
 }
+
+
+#content-area .widget-box {
+    background: #fff;
+}
+
 #content-area .side-column {
     float:left;
     width: 35%;
