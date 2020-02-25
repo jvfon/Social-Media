@@ -167,6 +167,7 @@ header .search-area ul li {
     background: #fafafa;
     overflow: auto;
     padding: 50px 0;
+    border-radius: 3px;
 }
 
 
