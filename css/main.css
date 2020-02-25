@@ -172,6 +172,7 @@ header .search-area ul li {
 
 
 #content-area .widget-box {
+    padding: 15px;
     background: #fff;
     margin: 0 0 15px 0;
     border-radius: 3px;
@@ -179,7 +180,11 @@ header .search-area ul li {
     -moz-box-shadow: 0px 2px 3px -1px rgba(138,136,138,1);
     box-shadow: 0px 2px 3px -1px rgba(138,136,138,1);
 }
+/*
+#content-area .widget-box .head .widget-icon {
 
+}
+*/
 #content-area .widget-box .head .widget-icon {
     background: #E5E8D1;
     height: 40px;
