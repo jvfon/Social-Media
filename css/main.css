@@ -192,14 +192,8 @@ header .search-area ul li {
 }
 
 #content-area .widget-box .head .widget-icon .fa { /* target just the icon */
-    background: #E5E8D1;
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    max-width: 50%;
+    font-size: 23px;
 }
 
 #content-area .side-column {
