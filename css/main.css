@@ -193,10 +193,10 @@ header .search-area ul li {
 */
 
 #content-area .widget-box .head .widget-icon {
-    display: inline-block
+    display: inline-block;
 }
 
-#content-area .widget-box .head .widget-icon {
+#content-area .widget-box .head .widget-container {
     background: #E5E8D1;
     height: 40px;
     width: 40px;
