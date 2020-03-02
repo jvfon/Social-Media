@@ -193,7 +193,7 @@ header .search-area ul li {
 */
 
 #content-area .widget-box .head .widget-icon {
-    display: inline-block;
+    
     background: #E5E8D1;
     height: 40px;
     width: 40px;
@@ -203,7 +203,7 @@ header .search-area ul li {
     align-items: center;
     justify-content: center;
 }
-/*
+
 #content-area .widget-box .head .widget-icon-container {
     background: #E5E8D1;
     height: 40px;
