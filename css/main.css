@@ -29,10 +29,15 @@ p {
 }
 /* ------------------------------------------------------------ */
 
+html {
+    font-family: sans-serif;
+}
 header {
     background: #37538C;
 }
-
+.logo-area {
+    color: white;
+}
 
 
 
